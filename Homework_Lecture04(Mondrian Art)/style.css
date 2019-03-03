@@ -1,0 +1,232 @@
+/*style.css*/
+div{
+	box-sizing: border-box;
+}
+.container{
+	height: 600px;
+	width: 600px;
+}
+
+#left{
+	float:left;
+	height: 100%;
+	width: 92%;
+}
+#top1{
+	height: 10%;
+	width: 100%;
+}
+#top1left1{
+	float: left;
+	height: 100%;
+	width: 30%;
+	background-color: #e5eeeb;
+}
+#top1left2{
+	float: left;
+	height: 100%;
+	width: 40%;
+	background-color: #f2e7d6;
+	border-width: 0 5px 5px 5px;
+	border-style: solid;
+	border-color: black;
+}
+#top1left3{
+	float: left;
+	height: 100%;
+	width: 30%;
+	background-color: #f1c86e;
+	border-width: 0 0 5px 5px;
+	border-style: solid;
+	border-color: black;
+}
+#bottom1{
+	height:90%;
+	width: 100%;
+}
+#left1{
+	float: left;
+	height: 100%;
+	width: 10%;
+}
+#bottom1top1{
+	height: 30%;
+	width: 100%;
+	background-color: #fbfde8;
+}
+#bottom1top2{
+	height: 40%;
+	width: 100%;
+	background-color: #e1eae5;
+	border-width: 5px 5px 5px 0;
+	border-style: solid;
+	border-color: black;
+}
+#bottom1top3{
+	height: 30%;
+	width: 100%;
+	background-color: #f3c562;
+	border-width: 5px 5px 0 0;
+	border-style: solid;
+	border-color: black;
+}
+#right1{
+	float: right;
+	height: 100%;
+	width: 90%;
+}
+#top2{
+	width: 100%;
+	height: 55%;
+	border-width: 0 0 5px 5px;
+	border-style: solid;
+	border-color: black;
+}
+#top2left{
+	float: left;
+	width: 66.3%;
+	height: 100%;
+	background-color: #d42b2a;
+}
+#top2right{
+	float: right;
+	width: 33.7%;
+	height: 100%;
+}
+#top2top{
+	height: 52%;
+	width: 100%;
+	background-color: #eccb71;
+}
+#top2bottom{
+	height: 48%;
+	width: 100%;
+}
+#top2rightleft1{
+	float: left;
+	height: 100%;
+	width: 50%;
+	background-color: #dfe5d1;
+}
+#top2rightright1{
+	float: right;
+	height: 100%;
+	width: 50%;
+	background-color: #f2eee2;
+}
+#bottom2{
+	width: 100%;
+	height: 45%;
+	border-width: 5px 0 0 5px;
+	border-style: solid;
+	border-color: black;
+}
+#left2{
+	float: left;
+	width: 33%;
+	height: 100%;
+}
+#left2top{
+	width: 100%;
+	height: 60%;
+	background-color: #130409;
+}
+#left2bottom{
+	width: 100%;
+	height: 40%;
+	background-color: #e3ded9;
+}
+#right2{
+	float: right;
+	width: 67%;
+	height: 100%;
+}
+#right2top1{
+	height: 32%;
+	width: 100%;
+}
+#right2top1left{
+	float: left;
+	height: 100%;
+	width: 49%;
+	background-color: #c0bfba;
+}
+#right2top1right{
+	float: right;
+	height: 100%;
+	width: 51%;
+	background-color: #d6dee0;
+}
+#right2top2{
+	height: 48%;
+	width: 100%;
+	border-width: 5px 0 5px 0;
+	border-style: solid;
+	border-color: black;
+}
+#right2top2left{
+	float: left;
+	height: 100%;
+	width: 49%;
+}
+#right2top2lefttop1{
+	width: 100%;
+	height: 59%;
+	background-color: #dee2d4;
+}
+#right2top2leftbottom1{
+	width: 100%;
+	height: 41%;
+	background-color: #0b0205;
+}
+#right2top2right{
+	float: left;
+	height: 100%;
+	width: 51%;
+	background-color: #251883;
+}
+#right2top3{
+	height: 20%;
+	width: 100%;
+	background-color: #e0e0df;
+}
+#right{
+	float: right;
+	width: 8%;
+	height: 100%;
+}
+#top{
+	background-color: #fcfde8;
+	height: 73.3%;
+	width: 100;
+}
+#bottom{
+	background-color: #d53534;
+	height: 26.7%;
+	width: 100%;
+}
+.prva{
+	border-width: 0 5px 5px 0;
+	border-style: solid;
+	border-color: black;
+}
+.vtora{
+	border-width: 5px 0 0 0;
+	border-style: solid;
+	border-color: black;
+}
+.treta{
+	border-width: 0 0 0 5px;
+	border-style: solid;
+	border-color: black;
+}
+.cetvrta{
+	border-width: 0 5px 0 0;
+	border-style: solid;
+	border-color: black;
+}
+.petta{
+	border-width: 0 0 5px 0;
+	border-style: solid;
+	border-color: black;
+}

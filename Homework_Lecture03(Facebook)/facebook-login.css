@@ -1,0 +1,49 @@
+@font-face{
+	font-family: 'Klavika Bold Bold OSF';
+	src:url('Fonts/Klavika Bold Bold OSF.otf');
+}
+body{
+    font-family: "Klavika Bold Bold OSF";
+}
+header {
+    height: 82px;
+    background-color: #3b5998;
+}
+#login1 {
+    color: white;
+    font-size: 14px;
+    margin-top: 7px;
+}
+#div2 {
+    background-color: #dfe3ee;
+}
+#submit {
+    background-color: #69a74e;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    color: #fff;
+    font-size: 19px;
+    font-weight: bold;
+}
+form tr {
+    font-size: 18px;
+}
+#login2 input {
+    font-size: 20px;
+}
+a {
+    color: #365899;
+}
+button {
+    background-color: #4267b2; 
+    border-color: #29487d; 
+    color: #ffffff;
+}
+#forgot-pass {
+    color: #9cb4d8;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
